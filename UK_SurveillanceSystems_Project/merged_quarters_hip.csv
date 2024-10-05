@@ -1,0 +1,138 @@
+﻿NHS_Trust,Num_op_Normal,Impat_Readd_SSI_Normal,Years.recorded,SSI_rate,quarters.participated
+Aintree University Hospital NHS Foundation Trust,645,2,2,0.310077519,8
+Airedale NHS Foundation Trust,348,0,2,0,2
+Ashford and St Peter's Hospitals NHS Foundation Trust,2203,5,5,0.226963232,8
+"Barking, Havering and Redbridge University Hospitals NHS Trust",1332,12,5,0.900900901,9
+Barnsley Hospital NHS Foundation Trust,1070,5,4,0.467435338,15
+Barts Health NHS Trust,1332,1,5,0.075075075,18
+Basildon and Thurrock University Hospitals NHS Foundation Trust,456,0,3,0,3
+Bedford Hospital NHS Trust,538,2,3,0.371747212,9
+Bedfordshire Hospitals NHS Foundation Trust,574,1,2,0.174216028,8
+Blackpool Teaching Hospitals NHS Foundation Trust,1269,23,5,1.812926957,17
+Bolton NHS Foundation Trust,476,0,4,0,7
+Bradford Teaching Hospitals NHS Foundation Trust,432,0,4,0,4
+Buckinghamshire Healthcare NHS Trust,1317,4,3,0.303643725,3
+Burton Hospitals NHS Foundation Trust,321,1.3,1,0.404564315,3
+Cambridge University Hospitals NHS Foundation Trust,460,0,1,0,2
+Chelsea and Westminster Hospital NHS Foundation Trust,1468,13.33333333,5,0.908059024,15
+Chesterfield Royal Hospital NHS Foundation Trust,340,0,1,0,1
+City Hospitals Sunderland NHS Foundation Trust,931,11,2,1.181525242,8
+Colchester Hospital University NHS Foundation Trust,462,0,1,0,4
+Countess of Chester Hospital NHS Foundation Trust,621,4,4,0.643776824,12
+County Durham and Darlington NHS Foundation Trust,572,4,2,0.699300699,4
+Dartford and Gravesham NHS Trust,1851,12,5,0.648298217,20
+Derby Teaching Hospitals NHS Foundation Trust,836,4,1,0.4784689,1
+Doncaster and Bassetlaw Hospitals NHS Foundation Trust,1289,9,5,0.698215671,18
+Dorset County Hospital NHS Foundation Trust,912,12,3,1.315789474,4
+East and North Hertfordshire NHS Trust,1616,10,5,0.618811881,17
+East Cheshire NHS Trust,943,0,5,0,13
+East Kent Hospitals University NHS Foundation Trust,3504,5,5,0.142694064,20
+East Lancashire Hospitals NHS Trust,1391,2,5,0.143781452,18
+East Suffolk and North Essex Foundation Trust ,2047,8,4,0.390815828,16
+East Sussex Healthcare NHS Trust,1611,23,5,1.427684668,20
+Epsom and St Helier University Hospitals NHS Trust,6715,33,5,0.491437081,20
+Frimley Health NHS Foundation Trust,3996,15,5,0.375375375,20
+Gateshead Health NHS Foundation Trust,1246,5.7,5,0.45761079,18
+George Eliot Hospital NHS Trust,717,5.3,5,0.739500488,17
+Gloucestershire Hospitals NHS Foundation Trust,3757,40,5,1.064679265,9
+Great Western Hospitals NHS Foundation Trust ,1012,8,2,0.790513834,3
+Guy's and St Thomas' NHS Foundation Trust,1841,12,5,0.651819663,20
+Hampshire Hospitals NHS Foundation Trust,2200,3.3,5,0.15,9
+Harrogate and District NHS Foundation Trust,776,16,2,2.06185567,2
+Homerton University Hospital NHS Foundation Trust,357,1,4,0.280112045,16
+Hull and East Yorkshire Hospitals NHS Trust,608,0,2,0,2
+Imperial College Healthcare NHS Trust,1118,2,5,0.178890877,20
+Ipswich Hospital NHS Trust,151,1,1,0.662251656,4
+Isle of Wight NHS Trust,977,8,5,0.818833163,20
+James Paget University Hospitals NHS Foundation Trust,1969,6.3,5,0.319910628,14
+Kettering General Hospital NHS Foundation Trust,849,0,5,0,10
+King's College Hospital NHS Foundation Trust,2581,4,5,0.154960679,18
+Lancashire Teaching Hospitals NHS Foundation Trust,1022,3,5,0.293628267,19
+Liverpool University Hospitals NHS Foundation Trust,1294,8.3,3,0.641273275,4
+London North West Healthcare NHS Trust,602,0,3,0,9
+London North West University Healthcare NHS Trust,113,0,1,0,3
+Luton and Dunstable University Hospital NHS Foundation Trust,814,4,4,0.491400491,12
+Maidstone and Tunbridge Wells NHS Trust,2199,14.7,5,0.668485675,18
+Manchester University NHS Foundation Trust,1854,3,5,0.161786119,17
+Medway NHS Foundation Trust,855,5,5,0.584795322,16
+Mid and South Essex NHS Foundation Trust,457,0,2,0,8
+Mid Cheshire Hospitals NHS Foundation Trust,837,0,5,0,16
+Mid Essex Hospital Services NHS Trust,986,2,3,0.202839757,12
+Mid Yorkshire Hospitals NHS Trust,376,0,1,0,1
+Milton Keynes University Hospital NHS Foundation Trust,1024,8.3,5,0.810784409,16
+Norfolk and Norwich University Hospitals NHS Foundation Trust,1876,2,4,0.106609808,5
+North Bristol NHS Trust,2836,17,5,0.599372422,19
+North Cumbria Integrated Care NHS Foundation Trust,472,1.3,2,0.275248783,7
+North Cumbria University Hospitals NHS Trust,833,5,3,0.600240096,12
+North Middlesex University Hospital NHS Trust,335,2,5,0.597014925,15
+North Tees and Hartlepool NHS Foundation Trust,1380,6,5,0.434877147,19
+North West Anglia NHS Foundation Trust,2696,12,5,0.445103858,20
+Northampton General Hospital NHS Trust,950,5,5,0.526315789,20
+Northern Devon Healthcare NHS Trust,372,0,1,0,1
+Northern Lincolnshire and Goole NHS Foundation Trust,1554,0,5,0,17
+Northumbria Healthcare NHS Foundation Trust,6694,52,5,0.776815058,20
+Nottingham University Hospitals NHS Trust,2765,16.7,5,0.604043838,19
+Pennine Acute Hospitals NHS Trust,1443,4,5,0.277277138,10
+Portsmouth Hospitals NHS Trust,3121,17.3,4,0.554362803,9
+Royal Berkshire NHS Foundation Trust,500,0,1,0,1
+Royal Cornwall Hospitals NHS Trust,2347,10,5,0.426075841,13
+Royal Devon and Exeter NHS Foundation Trust,3066,12,5,0.391389432,15
+Royal Free London NHS Foundation Trust,1439,7.3,5,0.507402516,15
+Royal Liverpool and Broadgreen University Hospitals NHS Trust,715,6,2,0.839160839,8
+Royal National Orthopaedic Hospital NHS Trust,2143,12,5,0.559962669,20
+Royal Surrey County Hospital NHS Foundation Trust,1157,0,5,0,11
+Royal United Hospitals Bath NHS Foundation Trust,1566,7.7,5,0.491792808,14
+Salford Royal NHS Foundation Trust ,72,0,1,0,1
+Salisbury NHS Foundation Trust,654,6,2,0.917431193,3
+Sandwell and West Birmingham Hospitals NHS Trust,1031,3,5,0.290979631,18
+Sheffield Teaching Hospitals NHS Foundation Trust,2586,10,5,0.386697602,19
+Sherwood Forest Hospitals NHS Foundation Trust,1421,0,5,0,20
+Shrewsbury and Telford Hospital NHS Trust,720,6.7,3,0.930167986,11
+Somerset NHS Foundation Trust,428,4,2,0.934579439,2
+South Tees Hospitals NHS Foundation Trust,2426,2,4,0.082440231,5
+South Tyneside NHS Foundation Trust,1562,5.3,5,0.339243423,19
+South Warwickshire NHS Foundation Trust,1520,2,3,0.131604922,9
+Southend University Hospital NHS Foundation Trust,560,2,2,0.357142857,3
+Southport and Ormskirk Hospital NHS Trust,469,1,5,0.213219616,20
+St Helens and Knowsley Teaching Hospitals NHS Trust,1288,8.3,5,0.644560068,19
+Stockport NHS Foundation Trust,686,8,3,1.166180758,4
+Surrey and Sussex Healthcare NHS Trust,1009,5,5,0.495687519,19
+Taunton and Somerset NHS Foundation Trust,784,0,2,0,2
+The Dudley Group NHS Foundation Trust,768,0,2,0,2
+The Hillingdon Hospitals NHS Foundation Trust,1010,2,4,0.198019802,9
+The Newcastle Upon Tyne Hospitals NHS Foundation Trust,2118,10,5,0.472143532,20
+The Princess Alexandra Hospital NHS Trust,983,9,5,0.915564598,18
+"The Queen Elizabeth Hospital, King's Lynn, NHS Foundation Trust",1181,1,5,0.084674005,20
+The Robert Jones and Agnes Hunt Orthopaedic Hospital NHS Foundation Trust,6801,37,5,0.544037642,20
+The Rotherham NHS Foundation Trust,532,0,2,0,2
+The Royal Bournemouth and Christchurch Hospitals NHS Foundation Trust,2165,5,3,0.230946882,12
+The Royal Orthopaedic Hospital NHS Foundation Trust,6036,37,5,0.612988734,17
+The Royal Wolverhampton NHS Trust,2763,22,5,0.796235975,20
+The Whittington Health NHS Trust,537,0,3,0,9
+Torbay and South Devon NHS Foundation Trust,912,0,4,0,4
+United Lincolnshire Hospitals NHS Trust,917,0,5,0,20
+University College London Hospitals NHS Foundation Trust,1916,16,5,0.835073069,8
+University Hospital Southampton NHS Foundation Trust,1382,7.6,5,0.549808291,18
+University Hospitals Bristol and Weston NHS Foundation Trust,90,1,2,1.114827202,7
+University Hospitals Bristol NHS Foundation Trust,78,0,3,0,10
+University Hospitals Coventry and Warwickshire NHS Trust,2442,1,5,0.040950041,19
+University Hospitals Dorset NHS Foundation Trust,325,0,1,0,4
+University Hospitals of Derby and Burton NHS Foundation Trust,739,0,2,0,5
+University Hospitals of Leicester NHS Trust,2169,7.7,5,0.355002305,14
+University Hospitals of Morecambe Bay NHS Foundation Trust,2504,6,5,0.239645325,15
+University Hospitals of North Midlands NHS Trust,360,8,1,2.222222222,1
+University Hospitals Plymouth NHS Trust,1235,13,5,1.052631579,20
+University Hospitals Sussex NHS Foundation Trust,551,8,1,1.451905626,4
+Walsall Healthcare NHS Trust,640,6,5,0.9375,7
+Warrington and Halton Hospitals NHS Foundation Trust,1227,3,5,0.244498778,18
+West Hertfordshire Hospitals NHS Trust,1561,4,5,0.256245996,20
+West Suffolk NHS Foundation Trust,1379,2,5,0.145032632,20
+Western Sussex Hospitals NHS Foundation Trust,2144,23.7,4,1.105410448,15
+Weston Area Health NHS Trust,657,5,3,0.761035008,9
+Wirral University Teaching Hospital NHS Foundation Trust,760,9,3,1.184210526,7
+Worcestershire Acute Hospitals NHS Trust,1369,2,5,0.146124059,15
+"Wrightington, Wigan and Leigh NHS Foundation Trust",6474,24.7,5,0.381543785,19
+Wye Valley NHS Trust,1047,1,4,0.095510984,9
+Yeovil District Hospital NHS Foundation Trust,1028,2,4,0.194552529,6
+York and Scarborough Teaching Hospitals NHS Foundation Trust,328,0,1,0,4
+York Teaching Hospital NHS Foundation Trust,2667,16,4,0.599925009,13
